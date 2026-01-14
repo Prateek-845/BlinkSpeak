@@ -77,7 +77,7 @@ The system distinguishes signals based on blink duration:
 | :--- | :--- | :--- |
 | **DOT (.)** | 0.2s - 0.7s | A definitive, intentional blink. |
 | **DASH (-)** | > 0.7s | A longer, deliberate eye closure. |
-| **SPACE** | 4.0s Pause | Keep eyes open to complete a word. |
+| **SPACE** | 3.0s Pause | Keep eyes open to complete a word. |
 | **BACKSPACE**| ---- | Blink 4 long dashes to delete the last character. |
 | **CLEAR** | ----- | Blink 5 long dashes to clear the screen. |
 
@@ -92,7 +92,8 @@ BlinkSpeak/
 ├── train_models.py      # Architecture search script (Phase 1)
 ├── tuning.py            # Hyperparameter tuning script (Phase 2)
 ├── requirements.txt     # Project dependencies
-└── tuning_results/      # Stores the trained model (.pth)
+├── training_results/    # Stores the training results
+└── tuning_results/      # Stores the trained model (.pth) and tuning results
 ```
 ---
 ## Model Performance & Evaluation
