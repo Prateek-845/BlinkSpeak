@@ -183,4 +183,4 @@ The model shows no bias towards either class, performing equally well for both o
 ---
 
 ### License
-This project is open-source and available for educational and assistive purposes.
+This project is open source and available for educational and assistive purposes.
