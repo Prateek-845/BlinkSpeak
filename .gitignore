@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Datasets (Excluded)
+mrleyedataset/
+processed_dataset/
+
+# Excluded Results Folders
+results/documentation/
+
+# PyInstaller Build Files
+build/
+dist/
+*.spec
+
+# Local Output Files
+output.txt
