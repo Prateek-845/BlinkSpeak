@@ -14,7 +14,7 @@ Using a standard webcam, BlinkSpeak employs a custom **11 layer Convolutional Ne
 ---
 ## Demo Video - Click the Image
 <p align="center">
-  <a href="https://youtu.be/qCHumGJI3x0">
+  <a href="[https://youtu.be/qCHumGJI3x0](https://youtu.be/rXFYb9YvQDY)">
     <img src="thumbnail.png" alt="BlinkSpeak Demo Video" width="800">
   </a>
 </p>
